@@ -1,1 +1,1 @@
-VAE for image denoisng
+VAE for image denoising
